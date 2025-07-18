@@ -17,7 +17,7 @@ Also this is the final scraper it has both supplier and user outreach all the fi
 For multimedia scraper
 install python and add it to environment variables on your system
 1)  open cmd in the folder directory in which the files are saved.
-2)  pip install requests tqdm beautifulsoup4 praw selenium webdriver-manager
+2)  run pip install requests tqdm beautifulsoup4 praw selenium webdriver-manager
 3)  install other libraries as needed.
 4)  run multimedia_scraper.py
 5)  A GUI will open select the websites you want to scrape. also give inputs on what the data is expected to be found.
